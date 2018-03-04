@@ -1,2 +1,14 @@
 Premier exercice concernant GIT sur OpenClassrom
  - Ajout d'un fichier README.txt contenant le détail du projet
+ - Ajout à l'index de README.TXT (git add README.TXT)
+ - Commit (git commit -m "Ajout de README)
+ - Ajout d'un fichier Fichier1
+ - MAJ README
+ - Ajout à l'index de Fichier1.txt (git add Fichier1.txt)
+ - Commit (git commit -m "MAJ sur le détail du projet")
+ - Ajout d'un fichier Fichier2
+ - MAJ README
+ - Ajout à l'index de Fichier2.txt (git add Fichier2.txt)
+ - Commit (git commit -m "PROJET R1")
+ - MAJ de tous les fichiers
+ - Index + commit avec la commande (git commit -a -m "Modification FInal")
